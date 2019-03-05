@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item
+            android:title="LinkedIn"
+            android:contentDescription="https://www.linkedin.com/in/dominic-schumerth-36658265"/>
+        <item
+            android:title="GitHub"
+            android:contentDescription="https://github.com/Domdabomb123"/>
+        <item
+            android:title="Facebook"
+            android:contentDescription="https://www.facebook.com/dominic.schumerth"/>
+        <item
+            android:title="Youtube"
+            android:contentDescription="https://www.youtube.com/channel/UC7229mIX5ZaF_pwA3cxTWYQ"/>
+        <item
+            android:title="Soundcloud"
+            android:contentDescription="https://soundcloud.com/dominic-schumerth"/>
+        <item
+            android:title="Email Me"
+            android:contentDescription="dschu215@gmail.com"/>
+        <item
+            android:title="Call Me"
+            android:contentDescription="920-819-6433"/>
+    </group>
+</menu>
